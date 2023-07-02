@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">androidable</string>
+    <string name="github_project">my first github project</string>
 </resources>
