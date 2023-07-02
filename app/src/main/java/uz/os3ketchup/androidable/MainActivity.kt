@@ -1,4 +1,4 @@
-package uz.os3ketchup.androidable
+ package uz.os3ketchup.androidable
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
